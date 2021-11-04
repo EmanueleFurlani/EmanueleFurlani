@@ -2,7 +2,7 @@
 I am a Full Stack Web Developer and a student at Strive School, supported by Y Combinator. 
 Thanks to this wonderful experience I am acquiring a lot of new knowledge in web development 👨🏼‍💻.</h3>
 
-<p align="center">In love with ⛷️🚴🏃🚵🏼‍♂️🏔️⛰️✈️⚽🕹️</p>
+<p align="center">In love with ⛷️🚴🏃�⛰️✈️⚽🕹️</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
