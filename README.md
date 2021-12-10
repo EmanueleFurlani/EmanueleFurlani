@@ -1,3 +1,5 @@
+<h2 align="center"> Hi everyonee!</h2>
+
 <h3 align="center"> 😎I am passionate about programming and building beautiful and functional websites both frontend and backend. 
 I am a Full Stack Web Developer and a student at Strive School, supported by Y Combinator. 👨🏼‍💻.</h3>
 
