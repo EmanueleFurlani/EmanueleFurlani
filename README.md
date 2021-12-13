@@ -1,7 +1,7 @@
 <h2 align="center"> Hi everyonee!</h2>
 
 <h3 align="center"> 😎I am passionate about programming and building beautiful and functional websites both frontend and backend. 
-I am a Full Stack Web Developer and a student at Strive School, supported by Y Combinator. 👨🏼‍💻.</h3>
+I am a Full Stack Web Developer and a student at Strive School, supported by Y Combinator. 👨🏼‍💻</h3>
 
 <p align="center">In love with ⛷️🚴🏃⛰️✈️⚽🕹️</p>
 
@@ -10,7 +10,7 @@ I am a Full Stack Web Developer and a student at Strive School, supported by Y C
 <a href="https://www.linkedin.com/in/emanuele-furlani-030551157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuele" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"> 🧙🏼‍♂️ Languages and Tools:</h3>
+<h3 align="center"> 🧙‍♂️ Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a> 
