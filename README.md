@@ -29,7 +29,7 @@ I'm a Full Stack Web Developer and a student at Strive School.💻</h3>
 </a>
 </p>
 
-<h3 align="center">☀️ Connect with me:</h3>
+<h3 align="center">☀️ Connect with me on my social:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/emanuele-furlani-030551157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuele" height="30" width="40" /></a>
   <a href="https://www.facebook.com/lelego85" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" alt="emanuele" height="30" width="40" /></a>
