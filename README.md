@@ -1,7 +1,7 @@
 <h2 align="center"> Hi everyonee!😎</h2>
 
 <h3 align="center">
-I am a Full Stack Web Developer and a student at Strive School.💻</h3>
+I'm a Full Stack Web Developer and a student at Strive School.💻</h3>
 <p align="center">In love with ⛷️🚴🏃⛰️✈️⚽🕹️</p>
 
 <h3 align="center">☀️ Connect with me:</h3>
