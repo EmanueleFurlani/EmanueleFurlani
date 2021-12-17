@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer and a student at Strive School.💻</h3>
 <h3 align="center">☀️ Connect with me on my social:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/emanuele-furlani-030551157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuele" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/lelego85/" target="blank"><img align="center" src="https://icon2.cleanpng.com/20180622/fkf/kisspng-logo-computer-icons-white-instagram-5b2d14ce1f3324.1314696615296811021278.jpg" alt="emanuele" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/lelego85/" target="blank"><img align="center" src="https://thumbs.dreamstime.com/b/instagram-popular-logo-winter-style-santa-hat-editorial-vector-vinnitsa-ukraine-december-196204788.jpg" alt="emanuele" height="30" width="40" /></a>
   <a href="https://www.facebook.com/lelego85" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" alt="emanuele" height="30" width="40" /></a>
 </p>
 
